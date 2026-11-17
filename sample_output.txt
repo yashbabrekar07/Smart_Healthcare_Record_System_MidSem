@@ -1,0 +1,16 @@
+============================================
+      SMART HEALTHCARE RECORD SYSTEM
+============================================
+
+========== MAIN MENU ==========
+1. Add Patient
+2. View Patients
+3. Add Doctor
+4. View Doctors
+5. Add Appointment
+6. View Appointments
+7. Add Prescription
+8. View Prescriptions
+9. Add Medical Report
+10. View Medical Reports
+0. Exit

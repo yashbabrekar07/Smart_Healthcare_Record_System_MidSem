@@ -1,0 +1,2 @@
+101|John Doe|35|M|9123456789|45 Park Lane|O+
+102|Alice Brown|28|F|9811223344|10 Lake View|B+

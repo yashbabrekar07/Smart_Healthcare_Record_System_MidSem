@@ -1,0 +1,8 @@
+# Compiled binaries and bytecode
+bin/
+*.exe
+*.o
+*.class
+
+# Temporary outputs
+test_output.txt

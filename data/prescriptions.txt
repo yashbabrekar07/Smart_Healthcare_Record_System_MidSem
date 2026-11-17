@@ -1,0 +1,2 @@
+401|101|201|2026-11-10|Aspirin 75mg, Atorvastatin 10mg|Once daily after food
+402|102|202|2026-11-12|Sumatriptan 50mg, Naproxen 250mg|Take at onset of headache
